@@ -6,4 +6,5 @@ export default defineConfig({
   build: {
     outDir: "dist",
   },
+  base: "/solid-tic-tac-toe/", // Add this line
 });
