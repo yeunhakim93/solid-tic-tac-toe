@@ -24,7 +24,7 @@ jobs:
       - name: Build the project
         run: npm run build
 
-      - name: List `dist` directory contents
+      - name: Verify dist directory contents
         run: ls -la ./dist
 
       - name: Deploy to GitHub Pages

@@ -37,7 +37,7 @@ To build and serve the Solid Tic-Tac-Toe project locally, follow these steps:
    npm run serve
    ```
 
-You should now be able to access the application locally, at port 4173 (http://localhost:4173/)
+You should now be able to access the application locally, at port 3000 (http://localhost:3000/solid-tic-tac-toe/)
 
 ## Usage
 
