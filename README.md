@@ -3,6 +3,7 @@
 ## Project Overview
 
 Solid Tic-Tac-Toe is a web-based implementation of the classic Tic-Tac-Toe game, created while exploring Solid.js & solid-testing-library.
+[DEMO](https://yeunhakim93.github.io/solid-tic-tac-toe/)
 
 ## Features
 
